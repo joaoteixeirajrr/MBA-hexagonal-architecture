@@ -36,5 +36,7 @@ out/
 ### VS Code ###
 .vscode/
 
-### Credenciais locais (não versionar) ###
+### Credenciais e documentos locais (não versionar) ###
 acesso.md
+defasio.md
+PLANO-DESENVOLVIMENTO.md
